@@ -43,13 +43,13 @@ pip install -r requirements.txt
 ```
 ### Data Preprocessing
 
-Before conducting the analysis, we performed the following data preprocessing steps:
+Before conducting the analysis, I performed the following data preprocessing steps:
 
-Handling Missing Data: We checked for missing values in the dataset and either removed or imputed them as appropriate.
+Handling Missing Data: I checked for missing values in the dataset and either removed or imputed them as appropriate.
 
-Data Cleaning: We removed any duplicate records and irrelevant columns that did not contribute to the analysis.
+Data Cleaning: I removed any duplicate records and irrelevant columns that did not contribute to the analysis.
 
-Feature Engineering: We created new features or derived relevant information from existing ones to enhance the analysis.
+Feature Engineering: I created new features or derived relevant information from existing ones to enhance the analysis.
 
 ### Analysis
 
@@ -67,11 +67,9 @@ Methodology
 
 We employed the following methodologies and techniques for our analysis:
 
-Descriptive Statistics: We used basic statistical measures to summarize and describe the dataset.
+Descriptive Statistics: used basic statistical measures to summarize and describe the dataset.
 
-Data Visualization: We created various visualizations, including bar charts, histograms, and heatmaps, to represent the data graphically.
-
-Machine Learning: We applied machine learning algorithms, such as clustering or regression, to extract valuable insights.
+Data Visualization: created various visualizations, including bar charts, histograms, and heatmaps, to represent the data graphically.
 
 ### Results
 
